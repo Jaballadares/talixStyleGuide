@@ -42,7 +42,6 @@ USAGE: @include order(2);
 /* ==========================================================================
   Based on - normalize.css v1.1.1 | MIT License | git.io/normalize
 ========================================================================== */
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700);
 *,
 :after,
 :before {
@@ -1598,4 +1597,3 @@ select {
   height: 100%; }
 
 /**** import styles for actual styleguide ****/
-/**** Import Google Fonts ****/
